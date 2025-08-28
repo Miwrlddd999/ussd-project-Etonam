@@ -3,3 +3,4 @@ mysql-connector-python
 # africastalking
 flask_cors
 cachetools==5.3.1
+gunicorn
